@@ -12,7 +12,7 @@ Handles formatting differences between SQL Server and PostgreSQL:
 - Microseconds: trimmed trailing zeros (.937000 → .937)
 
 Usage:
-  extract_from_sqlserver.py --server HOST --database DB [--git-push] [--output-dir DIR]
+  extract_opendata.py --server HOST --database DB [--git-push] [--output-dir DIR]
 
 Requires --server and --database (or env vars OPENDATA_SERVER, OPENDATA_DATABASE).
 """
@@ -199,13 +199,14 @@ TABLES = [
     (
         "published_images",
         ["uuid", "iiifurl", "iiifthumburl", "viewtype", "sequence", "width",
-         "height", "maxpixels", "created", "modified", "depictstmsobjectid",
-         "assistivetext"],
+         "height", "maxpixels", "openaccess", "created", "modified",
+         "depictstmsobjectid", "assistivetext"],
         """SELECT uuid,
                   CAST('https://api.nga.gov/iiif/' + uuid AS VARCHAR(512)) AS iiifURL,
                   CAST('https://api.nga.gov/iiif/' + uuid + '/full/!200,200/0/default.jpg' AS VARCHAR(512)) AS iiifThumbURL,
-                  viewType, sequence, width, height, maxPixels, created, modified,
-                  depictsTMSObjectID, assistiveText
+                  viewType, sequence, width, height, maxPixels,
+                  CASE WHEN obj_rightsType = 'Open Access' THEN 1 ELSE 0 END AS openAccess,
+                  created, modified, depictsTMSObjectID, assistiveText
            FROM x_published_images
            WHERE depictsTMSObjectID IS NOT NULL
              AND ri_photoCredit IS NULL
