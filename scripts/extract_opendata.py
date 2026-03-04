@@ -137,7 +137,7 @@ TABLES = [
                    suffix, displayDate, beginYear, endYear, country, zipCode
             FROM x_objects_constituents
             WHERE objectID IN ({ACCESSIONED_OBJECTS})
-            ORDER BY objectID, constituentID"""
+            ORDER BY objectID, constituentID, displayOrder, roleType, role, prefix, suffix, displayDate, beginYear, endYear, country, zipCode"""
     ),
     (
         "objects_dimensions",
@@ -180,7 +180,7 @@ TABLES = [
               AND t.textType IN ('bibliography','documentary_labels_inscriptions',
                   'exhibition_history','exhibition_history_footnote',
                   'inscription_footnote','lifetime_exhibition','other_collections')
-            ORDER BY t.objectID, t.textType"""
+            ORDER BY t.objectID, t.textType, t.[year], t.fingerprint"""
     ),
     (
         "preferred_locations",
