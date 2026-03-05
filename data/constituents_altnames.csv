@@ -34772,6 +34772,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63650,54121,Bruguière,"Bruguière, Francis Joseph",Francis Joseph Bruguière,Preferred Name
 63651,54122,Cosindas,"Cosindas, Marie",Marie Cosindas,Preferred Name
 63652,54123,Erfurth,"Erfurth, Hugo",Hugo Erfurth,Preferred Name
+63653,54124,Foucault,"Foucault, Henri",Henri Foucault,Preferred Name
 63656,54127,"Ognibene, M.D.","Ognibene, M.D., Frederick P. Dr.","Dr. Frederick P. Ognibene, M.D.",Preferred Name
 63657,54128,Pavlović,"Pavlović, Vesna",Vesna Pavlović,Preferred Name
 63658,54129,Shizuka,"Shizuka, Yokomizo",Yokomizo Shizuka,Preferred Name
@@ -35085,3 +35086,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64383,7992,Williams,"Williams, Mabel",Mabel Williams,Variant
 64384,7992,Williams,"Williams, Maybelle",Maybelle Williams,Variant
 64388,6880,Pevsner,"Pevsner, Naum",Naum Pevsner,Variant
+64418,54759,Odieuvre,"Odieuvre, Michel",Michel Odieuvre,Preferred Name
