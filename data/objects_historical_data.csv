@@ -2594,6 +2594,7 @@ previous_attribution,46295,1,Venetian 15th Century,Venetian 15th Century,Attribu
 previous_attribution,46296,1,Venetian 15th Century,Venetian 15th Century,Attribution at time of gift,
 previous_attribution,46296,2,Attributed to Florentine 15th Century,"Florentine 15th Century, Attributed to",Bd. Tr. approval 10/1/87,1987-10-01
 previous_attribution,46296,3,Probably Florentine 15th Century,"Florentine 15th Century, Probably",Change memo 10/9/91,1991-10-09
+previous_attribution,46300,1,Roman 3rd Century,Roman 3rd Century,,
 previous_attribution,46304,1,Honoré Daumier,"Daumier, Honoré",Attribution at time of gift,
 previous_attribution,46305,1,Honoré Daumier,"Daumier, Honoré",Attribution at time of gift,
 previous_attribution,46356,1,Claude Lorrain,Claude Lorrain,,
@@ -3221,9 +3222,7 @@ previous_attribution,76301,1,after Francesco Francia,"Francia, Francesco, after"
 previous_attribution,76303,1,Possibly Annibale Fontana,"Fontana, Annibale, Possibly",Attribution at time of acquisition,""
 previous_attribution,76304,1,Possibly Annibale Fontana,"Fontana, Annibale, Possibly",Attribution at time of acquisition,""
 previous_attribution,76323,1,Possibly Christoph Sucro,"Sucro, Christoph, Possibly",,
-previous_title,76323,2,"The Great Elector (?), or Don Johann of Austria (?) [obverse]",,,
 previous_attribution,76324,1,Possibly Christoph Sucro,"Schneider, Christopher",Title and Attribution Change Memo approved in May 2025,2025-05-27
-previous_title,76324,2,Lamb of the Redeemer [reverse],,,
 previous_title,77278,2,Untitled,,,
 previous_title,77719,2,[untitled],,,
 previous_title,79347,2,"The Weather Peasant: ""Es ist Kalt Weter""",,updated to reflect 2024 NHG cat rais,
@@ -6270,6 +6269,7 @@ previous_title,225126,2,"Untitled (January 6th, 2021)",,,
 previous_attribution,225218,1,Italian 15th Century,Italian 15th Century,Attribution at time of acquisition,""
 previous_attribution,225258,1,"Anonymous Artist, after Frans Floris I, formerly attributed to Crispin van den Broeck","Anonymous Artist, Frans Floris I, Crispin van den Broeck",,
 previous_attribution,225441,1,Attributed to Gesina ter Borch and Gerard ter Borch the Younger,"Borch, Gesina ter, Attributed to, and Gerard ter Borch the Younger",,
+previous_attribution,225898,1,European 17th Century,European 17th Century,"When this print was acquired, NGA curators attributed this print simply to ""European 17th century"" because they weren't able to determine a more specific nationality. I asked Brooks Rich, Associate Curator of Old Master and Nineteenth-Century Prints, if he was comfortable making a more specific guess, and he decided on ""Spanish (?) 17th Century"". This change in attribution is partially because our prints are grouped in storage by artist nationality, and so I needed a more specific nationality.",""
 previous_title,226198,2,Go Down Moses (Mural Study),,,
 previous_title,226418,2,"Numbers and Trees: Palm Canyon, Palm Series 4, Tree #2, Kitanemuk, from the suite of 4 prints, Numbers and Trees: Palm Canyon, Palm Series 4",,,
 previous_title,226537,3,Untitled (Capitol),,,
@@ -6434,6 +6434,7 @@ previous_attribution,231508,1,Willem de Kooning,"de Kooning, Willem",,
 previous_attribution,231516,1,Edward N. Gibbs,"Gibbs, Edward N.",,
 previous_attribution,231522,1,Bruce Nauman,"Nauman, Bruce",,
 previous_attribution,231525,1,Bruce Nauman,"Nauman, Bruce",,
+previous_attribution,232003,1,George N. Barnard,"Barnard, George N.",,
 previous_title,232202,2,"Painting Medal, 3rd Biennial, Corcoran Gallery of Art",,Corcoran title,
 previous_title,232203,2,"Painting Medal, 3rd Biennial, Corcoran Gallery of Art",,Corcoran title,
 previous_title,232204,2,"Painting Medal, 3rd Biennial, Corcoran Gallery of Art",,Corcoran title,

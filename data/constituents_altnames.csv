@@ -967,7 +967,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1046,1053,Wengraf,"Wengraf, Patricia, Ms.",Ms. Patricia Wengraf,Preferred Name
 1047,1054,Lunn,"Lunn, Jr., Harry H., Mr. and Mrs.","Mr. and Mrs. Harry H. Lunn, Jr.",Preferred Name
 1048,1055,Bundy,"Bundy, Horace",Horace Bundy,Preferred Name
-1049,1056,Weston,"Weston, Margaret W.",Margaret W. Weston,Preferred Name
+1049,1056,Weston,"Weston, Dody",Dody Weston,Preferred Name
 1050,1057,Berman,"Berman, Bernard, Mr. and Mrs.",Mr. and Mrs. Bernard Berman,Preferred Name
 1051,1058,,"Cantor Art Foundation, B.G.",B.G. Cantor Art Foundation,Variant Index Name
 1052,1059,Byzantine 13th Century,Byzantine 13th Century,Byzantine 13th Century,Preferred Name
@@ -4094,7 +4094,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4317,4324,Hecht,"Hecht, Franz",Franz Hecht,Preferred Name
 4318,4325,Hecht,"Hecht, Joseph",Joseph Hecht,Preferred Name
 4319,4326,Heckenbleikner,"Heckenbleikner, Louis",Louis Heckenbleikner,Preferred Name
-4320,4327,Heil,"Heil, Ed. ?",Ed. ? Heil,Preferred Name
 4321,4328,Heilmann,"Heilmann, Jean-Gaspard",Jean-Gaspard Heilmann,Preferred Name
 4322,4329,Heinemann,"Heinemann, Gunther",Gunther Heinemann,Preferred Name
 4323,4330,Heinsius,"Heinsius, Johann Ernst",Johann Ernst Heinsius,Preferred Name
@@ -11745,7 +11744,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19529,19536,Cumano,"Cumano, Costantino",Costantino Cumano,Preferred Name
 19530,19537,Kessel,"Kessel, Theodor van",Theodor van Kessel,Preferred Name
 19531,19538,Ottley,"Ottley, William Young",William Young Ottley,Preferred Name
-19532,19539,Plónski,"Plónski, Michal",Michal Plónski,Preferred Name
+19532,19539,Płoński,"Płoński, Michał",Michał Płoński,Preferred Name
 19534,19541,Stolker,"Stolker, Jan",Jan Stolker,Preferred Name
 19543,19550,Spolverini,"Spolverini, Ilario",Ilario Spolverini,Preferred Name
 19544,19551,Francia,"Francia, Francesco Maria",Francesco Maria Francia,Preferred Name
@@ -11958,7 +11957,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 20335,20342,Forbes,"Forbes, James Staats",James Staats Forbes,Preferred Name
 20336,20343,Jennings,"Jennings, W.",W. Jennings,Preferred Name
 20369,20376,Howell,"Howell, Thomas A.",Thomas A. Howell,Preferred Name
-20370,20377,Wallach,"Wallach, Barger, Mr. and Mrs.",Mr. and Mrs. Barger Wallach,Preferred Name
+20370,20377,Wallach,"Wallach, Maud Barger",Maud Barger-Wallach,Preferred Name
 20371,20378,,Fifth Avenue Art Galleries,Fifth Avenue Art Galleries,Preferred Name
 20372,20379,Ryan,"Ryan, Thomas Fortune",Thomas Fortune Ryan,Preferred Name
 20404,20411,Scanga,"Scanga, Italo",Italo Scanga,Preferred Name
@@ -13220,7 +13219,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 23467,23474,Flers,"Flers, Robert de",Robert de Flers,Preferred Name
 23472,23479,,"Estate Project for Artists with AIDS, The",The Estate Project for Artists with AIDS,Preferred Name
 23474,23481,Kahnweiler,"Kahnweiler, Daniel H.",Daniel H. Kahnweiler,Preferred Name
-23479,23486,Arnéra,"Arnéra, H.",H. Arnéra,Preferred Name
+23479,23486,Arnéra,"Arnéra, Hidalgo",Hidalgo Arnéra,Preferred Name
 23481,23488,Santamarina,"Santamarina, Antonio",Antonio Santamarina,Preferred Name
 23482,23489,Davis,"Davis, Luther",Luther Davis,Preferred Name
 23484,23491,Hubach,"Hubach, Hanns",Hanns Hubach,Preferred Name
@@ -13647,7 +13646,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24315,24322,,"Melberg Gallery, Jerald",Jerald Melberg Gallery,Preferred Name
 24317,24324,Williams,"Williams, Thomas",Thomas Williams,Preferred Name
 24318,24325,Webb,"Webb, Todd",Todd Webb,Preferred Name
-24320,24327,,Kleimann et Cie.,Kleimann et Cie.,Preferred Name
+24320,24327,,Kleinmann et Cie.,Kleinmann et Cie.,Preferred Name
 24321,24328,Baudoin,"Baudoin, R.",R. Baudoin,Preferred Name
 24322,24329,Rizson,Rizson,Rizson,Preferred Name
 24323,24330,d'Alayer,"d'Alayer, Jean",Jean d'Alayer,Preferred Name
@@ -13906,6 +13905,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24743,24750,LeChapelin,"LeChapelin, J.",J. LeChapelin,Preferred Name
 24749,24756,Chambi,"Chambi, Martin",Martin Chambi,Preferred Name
 24750,24757,Horvat,"Horvat, Frank",Frank Horvat,Preferred Name
+24751,24758,Saudek,"Saudek, Jan",Jan Saudek,Preferred Name
 24752,24759,Mayr-Fàjt Collection,Mayr-Fàjt Collection,Mayr-Fàjt Collection,Preferred Name
 24754,24761,Preissig,"Preissig, Vojtech",Vojtech Preissig,Preferred Name
 24755,24762,Bílek,"Bílek, Frantisek",Frantisek Bílek,Preferred Name
@@ -14131,6 +14131,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 25148,25155,McKee,"McKee, David and Renee",David and Renee McKee,Preferred Name
 25152,25159,Guerin,"Guerin, Guillaume",Guillaume Guerin,Preferred Name
 25153,25160,Vanderbilt,"Vanderbilt, William Kissam",William Kissam Vanderbilt,Preferred Name
+25154,25161,Giacomelli,"Giacomelli, Mario",Mario Giacomelli,Preferred Name
 25156,25163,,Spink-Leger,Spink-Leger,Preferred Name
 25158,25165,Gouvert,"Gouvert, Paul",Paul Gouvert,Preferred Name
 25159,25166,Crowninshield,"Crowninshield, Francis",Francis Crowninshield,Preferred Name
@@ -15263,7 +15264,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27075,27082,Melko,"Melko, Jennifer",Jennifer Melko,Preferred Name
 27082,27089,Stephanopoulos,"Stephanopoulos, George, Mr.",Mr. George Stephanopoulos,Preferred Name
 27084,27091,Bricher,"Bricher, Alfred Thompson",Alfred Thompson Bricher,Preferred Name
-27085,27092,Dietrich,"Dietrich, Adelheid",Adelheid Dietrich,Preferred Name
 27086,27093,Fisher,"Fisher, Alvan",Alvan Fisher,Preferred Name
 27087,27094,McEntee,"McEntee, Jervis",Jervis McEntee,Preferred Name
 27104,27111,Marochetti,"Marochetti, Carlo, Baron",Baron Carlo Marochetti,Preferred Name
@@ -15428,7 +15428,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27615,27622,Daix,"Daix, Pierre",Pierre Daix,Preferred Name
 27618,27625,Doria,"Doria, Gian Carlo",Gian Carlo Doria,Preferred Name
 27619,27626,Adanero,"Adanero, Counts of",Counts of Adanero,Preferred Name
-27620,27627,,Caylus Anticuario,Caylus Anticuario,Preferred Name
+27620,27627,,Caylus,Caylus,Preferred Name
 27621,27628,Simelli,"Simelli, Carlo Baldassare",Carlo Baldassare Simelli,Preferred Name
 27624,27631,,Ancre Aldine,Ancre Aldine,Preferred Name
 27626,27633,Pian,"Pian, Antonio",Antonio Pian,Preferred Name
@@ -16372,6 +16372,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29069,29076,Laurie,"Laurie, Gualtiero Kennedy, Cav",Cav Gualtiero Kennedy Laurie,Preferred Name
 29070,29077,Spence,"Spence, William Blundell",William Blundell Spence,Preferred Name
 29076,29083,Okolowicz and Ms. Zofia de Ines,"Okolowicz and Ms. Zofia de Ines, Stefan, Mr.",Mr. Stefan Okolowicz and Ms. Zofia de Ines,Preferred Name
+29077,29084,Gabrielová,"Gabrielová, Vêra",Věra Gabrielová,Preferred Name
 29081,29088,Leclanché,"Leclanché, Georges",Georges Leclanché,Preferred Name
 29100,29107,Beaumont,"Beaumont, Jean Baptiste Elie de",Jean Baptiste Elie de Beaumont,Preferred Name
 29101,29108,Graham,"Graham, John Charles William Paul",John Charles William Paul Graham,Preferred Name
@@ -16795,6 +16796,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29701,29708,,Gérard Frères,Gérard Frères,Preferred Name
 29702,29709,,Elzevir Trading,Elzevir Trading,Preferred Name
 29703,29710,Moll,"Moll, Oskar",Oskar Moll,Preferred Name
+29705,29712,Pasmore,"Pasmore, Victor",Victor Pasmore,Preferred Name
 29706,29713,Coe,"Coe, Ralph M.",Ralph M. Coe,Preferred Name
 29707,29714,Field,"Field, 3rd, Marshall","Marshall Field, 3rd",Preferred Name
 29708,29715,Boggs,"Boggs, Robert, Mrs.",Mrs. Robert Boggs,Preferred Name
@@ -17073,6 +17075,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30121,30128,Goode,"Goode, James",James Goode,Preferred Name
 30123,30130,,Hackett-Freedman Gallery,Hackett-Freedman Gallery,Preferred Name
 30125,30132,Owen,"Owen, Hugh",Hugh Owen,Preferred Name
+30135,30142,Stewart,"Stewart, John",John Stewart,Preferred Name
 30141,30148,Solon,"Solon, Marc Louis Emanuel",Marc Louis Emanuel Solon,Preferred Name
 30142,30149,Isaacs,"Isaacs, Charles",Charles Isaacs,Preferred Name
 30143,30150,Pumphrey,"Pumphrey, William A.",William A. Pumphrey,Preferred Name
@@ -22300,6 +22303,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38585,32862,Drummond,"Drummond, David Thomas Kerr Reverend",Reverend David Thomas Kerr Drummond,Preferred Name
 38586,32863,Rosling,"Rosling, Alfred",Alfred Rosling,Preferred Name
 38588,32865,Ravier,"Ravier, François-Auguste",François-Auguste Ravier,Preferred Name
+38590,32866,Conway,"Conway, Charles",Charles Conway,Preferred Name
 38597,32873,Graham,"Graham, James",James Graham,Preferred Name
 38603,32879,Delord,"Delord, Taxile",Taxile Delord,Preferred Name
 38605,32881,Fournier,"Fournier, H.",H. Fournier,Preferred Name
@@ -24638,6 +24642,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42107,35908,Treu,"Treu, Martin",Martin Treu,Preferred Name
 42108,35909,Altomonte,"Altomonte, Andreas",Andreas Altomonte,Preferred Name
 42111,35912,Northern Italian 16th Century,Northern Italian 16th Century,Northern Italian 16th Century,Preferred Name
+42112,35913,Goeritz,"Goeritz, Mathias",Mathias Goeritz,Preferred Name
 42113,35914,Deplaces,"Deplaces, Louis",Louis Deplaces,Preferred Name
 42114,35915,Valentine,"Valentine, Dewain",Dewain Valentine,Preferred Name
 42115,35916,Ducq,"Ducq, Jan le",Jan le Ducq,Preferred Name
@@ -27485,6 +27490,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51538,44747,,c/o Yancey Richardson Gallery,c/o Yancey Richardson Gallery,Variant
 51540,44749,,"Center for Creative Photography, University of Arizona","Center for Creative Photography, University of Arizona",Preferred Name
 51545,44754,,"Clements Library, The University of Michigan","Clements Library, The University of Michigan",Preferred Name
+51557,44766,,David Zwirner Gallery,David Zwirner Gallery,Preferred Name
 51577,44786,,G Fine Art,G Fine Art,Preferred Name
 51581,44790,,Gallery Joe,Gallery Joe,Preferred Name
 51597,23450,,"International Center of Photography, New York","International Center of Photography, New York",Variant
@@ -27520,6 +27526,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52074,21672,,The Newark Museum of Art,The Newark Museum of Art,Variant
 52184,23656,Newman,"Newman, Arnold Mr.",Mr. Arnold Newman,Variant
 52209,40964,Williams,"Williams, Clarence Mr.",Mr. Clarence Williams,Variant
+52210,45419,Winter,"Winter, Clark",Clark Winter,Preferred Name
 52214,45423,Levinthal,"David Levinthal Studio, The",The David Levinthal Studio,Preferred Name
 52215,45424,McDonald,"McDonald, David",David McDonald,Preferred Name
 52223,41473,Reed,"Reed, Eli",Mr. Eli Reed,Variant
@@ -27549,6 +27556,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52701,13511,O'Sullivan,"O'Sullivan, T.H.",T.H. O'Sullivan,Variant
 52742,27708,Hirshhorn,"Hirshhorn, Olga",Olga Hirshhorn,Married Name
 52744,39041,Snowden,"Snowden, Sylvia Ms.",Ms. Sylvia Snowden,Variant
+52747,45956,Wilson,"Wilson, Edward T. Dr.",Dr. Edward T. Wilson,Preferred Name
 52755,45964,Levy,"Levy, David C.",David C. Levy,Preferred Name
 52765,45974,Merryman,"Merryman, Joan",Joan Merryman,Preferred Name
 52780,45989,,Pace MacGill Gallery,Pace MacGill Gallery,Preferred Name
@@ -29797,12 +29805,15 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56276,48609,Dudgeon,"Dudgeon, John William",John William Dudgeon,Preferred Name
 56277,48610,Filmer,Filmer Lady,Lady Filmer,Preferred Name
 56278,48611,Fisher,Fisher,Fisher,Preferred Name
+56279,48612,Valentine,"Valentine, James",James Valentine,Preferred Name
 56280,48613,Waring,"Waring, Charles Henry",Charles Henry Waring,Preferred Name
 56281,48614,Fleming,"Fleming, Lucy",Lucy Fleming,Preferred Name
 56283,48615,Wenderoth,"Wenderoth, Frederick August",Frederick August Wenderoth,Preferred Name
 56284,48615,Wenderoth,"Wenderoth, August",August Wenderoth,Variant
 56285,48616,Hammerschmidt,"Hammerschmidt, Wilhelm",Wilhelm Hammerschmidt,Preferred Name
 56286,48617,Heath,"Heath, Vernon",Vernon Heath,Preferred Name
+56287,48618,Craven,"Craven, William",William Craven,Preferred Name
+56289,48618,,"William, Earl of Craven","William, Earl of Craven",Variant
 56290,48620,Holden,"Holden, Henry Reverend",Reverend Henry Holden,Preferred Name
 56291,48621,Hughes,"Hughes, Cornelius Jabez",Cornelius Jabez Hughes,Preferred Name
 56292,48621,Hughes,"Hughes, C. J.",C. J. Hughes,Variant
@@ -33682,7 +33693,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62061,13355,Pérignon,,Alexis-Nicolas Pérignon,Variant
 62062,52864,Wakayama,"Wakayama, Tamio",Tamio Wakayama,Preferred Name
 62065,52867,Morse,"Morse, Sydney",Sydney Morse,Preferred Name
-62071,52873,Beerendrecht,"Beerendrecht, Johannes Pietersz",Johannes Pietersz Beerendrecht,Preferred Name
+62071,52873,Berendrecht,"Berendrecht, Johannes Pietersz",Johannes Pietersz Berendrecht,Preferred Name
 62072,52874,Kloeting,"Kloeting, Symon",Symon Kloeting,Preferred Name
 62074,52875,,L. Sachse & Co.,L. Sachse & Co.,Preferred Name
 62075,52876,Manuel Frères,"Manuel Frères, Gaston and  Lucien",G. L. Manuel Frères,Preferred Name
@@ -34509,6 +34520,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63148,53707,Schweiglin,"Schweiglin, Elias",Elias Schweiglin,Preferred Name
 63149,53708,Stewart,"Stewart, L. R.",L. R. Stewart,Preferred Name
 63150,53709,Godefroy,"Godefroy, Louis",Louis Godefroy,Preferred Name
+63151,53710,Lee,"Lee, Susie J.",Susie J. Lee,Preferred Name
+63152,53711,,PDX Contemporary,PDX Contemporary,Preferred Name
 63154,53712,Poitevin,"Poitevin, Alphonse",Alphonse-Louis Poitevin,Preferred Name
 63155,53713,Pulling,"Pulling, Lucy Leffingwell",Lucy Leffingwell Pulling,Preferred Name
 63156,53714,Weigmann,"Weigmann, Otto Albrecht Dr.",Dr. Otto Albrecht Weigmann,Preferred Name
@@ -34773,6 +34786,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63651,54122,Cosindas,"Cosindas, Marie",Marie Cosindas,Preferred Name
 63652,54123,Erfurth,"Erfurth, Hugo",Hugo Erfurth,Preferred Name
 63653,54124,Foucault,"Foucault, Henri",Henri Foucault,Preferred Name
+63655,54126,Jahan,"Jahan, Pierre",Pierre Jahan,Preferred Name
 63656,54127,"Ognibene, M.D.","Ognibene, M.D., Frederick P. Dr.","Dr. Frederick P. Ognibene, M.D.",Preferred Name
 63657,54128,Pavlović,"Pavlović, Vesna",Vesna Pavlović,Preferred Name
 63658,54129,Shizuka,"Shizuka, Yokomizo",Yokomizo Shizuka,Preferred Name
@@ -34856,14 +34870,17 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63819,53990,Smith,"Smith, Allison",Allison Smith,Variant
 63829,54281,Jacques,"Jacques, Louis",Louis Jacques,Preferred Name
 63832,52318,Derby,,Doris Adelaide Derby,Full Name
+63833,54284,Novoa,"Novoa, Glexis",Glexis Novoa,Preferred Name
 63835,34154,Zaidenberg,"Zaidenberg, A.",A. Zaidenberg,Variant
 63837,54287,,"University of Nebraska, Omaha","University of Nebraska, Omaha",Preferred Name
 63839,54289,Gitman,"Gitman, Victoria",Victoria Gitman,Preferred Name
 63840,53526,Martínez,"Martínez, César Augusto",César Augusto Martínez,Variant
 63841,54290,Rubins,"Rubins, Nancy",Nancy Rubins,Preferred Name
+63843,54292,Norman,"Norman, Carl",Carl Norman,Preferred Name
 63844,54293,Goldstein,"Goldstein, Robert D.",Robert D. Goldstein,Preferred Name
 63846,54295,Eversley,"Eversley, Fred",Fred Eversley,Preferred Name
 63847,54296,,David Kordansky Gallery,David Kordansky Gallery,Preferred Name
+63848,54297,Murray,"Murray, Colin",Colin Murray,Preferred Name
 63849,54298,d'Argenville,"d'Argenville, Antoine Joseph Dezallier",Antoine Joseph Dezallier d'Argenville,Preferred Name
 63850,52752,Alu,,Niccolo Alu,Variant
 63851,52752,Alou,,Nicolas Alou,Variant
@@ -34876,7 +34893,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63875,54319,Azcárate,"Azcárate, Emilia",Emilia Azcárate,Preferred Name
 63876,54320,Ortega,"Ortega, Damián",Damián Ortega,Preferred Name
 63878,54322,Underhill,"Underhill, Francis J",Francis J. Underhill,Preferred Name
-63881,54324,Buesem,"Buesem, Jan Jansz. van",Jan Jansz. van Buesem,Preferred Name
+63881,54324,Buesem,"Buesem, Jan Jansz van",Jan Jansz van Buesem,Preferred Name
 63882,54325,Sieger,"Sieger, Victor",Victor Sieger,Preferred Name
 63883,54326,Joly,"Joly, Pierre-Gustave",Pierre-Gustave Joly,Preferred Name
 63884,54326,Joly de Lotbinière,,Pierre-Gustave Joly de Lotbinière,Variant
@@ -34914,8 +34931,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63931,54368,,Auktionshaus zeitGenossen,Auktionshaus zeitGenossen,Preferred Name
 63934,54371,Albrizzi,"Albrizzi, Alvise",Alvise Albrizzi,Preferred Name
 63935,54372,,Sanquirico Brothers,Sanquirico Brothers,Preferred Name
+63936,54373,Niro,"Niro, Shelley",Shelley Niro,Preferred Name
 63938,54375,Gibbs,"Gibbs, Ewan",Ewan Gibbs,Preferred Name
 63942,54379,,Black Box Press Studio,Black Box Press Studio,Preferred Name
+63943,54380,Grossman,"Grossman, Maurizia",Maurizia Grossman,Preferred Name
 63947,54384,,"Evil Prints, St. Louis","Evil Prints, St. Louis",Preferred Name
 63948,54385,,"Peacock Visual Arts, Aberdeen, Scotland","Peacock Visual Arts, Aberdeen, Scotland",Preferred Name
 63949,7937,Perky,Perky Ms.,Ms. Perky,Variant
@@ -34925,6 +34944,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63967,54402,Gordon,"Gordon, Kenneth H. Jr. and Janice Taylor",Drs. Kenneth H. Jr. and Janice Taylor Gordon,Preferred Name
 63968,54403,Peters,"Peters, Scott",Scott Peters,Preferred Name
 63969,54404,Tang,"Tang, Susan L.",Susan L. Tang,Preferred Name
+63970,54405,,Frides Laméris Glass & Antiques,Frides Laméris Glass & Antiques,Preferred Name
 63982,54417,Lathrop,"Lathrop, George Alfred Dr.",Dr. George Alfred Lathrop,Preferred Name
 63983,54418,Muzahhib,"Muzahhib, Mahmud",Mahmud Muzahhib,Preferred Name
 63984,8577,Mondschein,"Mondschein, Fritz",Friz Mondschein,Variant
@@ -34944,11 +34964,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64026,54447,Rollins,"Rollins, Michelle",Michelle Rollins,Preferred Name
 64029,11980,,Lower Belvedere,Lower Belvedere,Variant
 64034,54454,Gray,"Gray, Donna",Donna Gray,Preferred Name
+64037,54456,Anikeef,"Anikeef, Sibyl",Sibyl Anikeef,Preferred Name
 64038,8214,Becht,"Becht, Marguerite Carmel",Marguerite Carmel Becht,Maiden Name
 64039,8214,Wilson,"Wilson, Marguerite Carmel",Marguerite Carmel Wilson,Variant
 64040,54457,Schneider,"Schneider, Christopher",Christopher Schneider,Preferred Name
 64041,54457,,,Cristofer,Variant
-64042,1056,Weston,"Weston, Dody",Dody Weston,Nickname/Pseudonym
+64042,1056,Weston,"Weston, Dody",Dody Weston,Original Name
 64043,1056,Woodward,"Woodward, Margaret",Margaret Woodward,Maiden Name
 64048,54458,Woolens,"Woolens, J.",J. Woolens,Preferred Name
 64049,54459,Pretsch,"Pretsch, Paul",Paul Pretsch,Preferred Name
@@ -34958,8 +34979,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64054,54463,Serre,"Serre, Jean-Claude",Jean-Claude Serre,Preferred Name
 64058,54467,Jacques,"Jacques, Joseph Hugue Emile and Marie Lim Pee-Chin",Joseph Hugue Emile and Marie Lim Pee-Chin Jacques,Preferred Name
 64059,54467,Pee-Chin,"Pee-Chin, Marie Lim",Marie Lim Pee-Chin,Maiden Name
+64063,54471,Steinert,"Steinert, Otto",Otto Steinert,Preferred Name
 64064,54472,Schürmann,"Schürmann, Wilhelm",Wilhelm Schürmann,Preferred Name
 64065,54473,Strüwe,"Strüwe, Carl",Carl Strüwe,Preferred Name
+64066,54474,Bárta,"Bárta, Karel",Karel Bárta,Preferred Name
 64068,54476,Horst,"Horst, Horst P.",Horst P. Horst,Preferred Name
 64069,54477,Hoppé,"Hoppé, Emil Otto",Emil Otto Hoppé,Preferred Name
 64070,26304,Tepe,,Richard August Joseph Maria Tepe,Full Name
@@ -34979,6 +35002,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64097,54497,Massie,"Massie, Winona Lake",Winona Lake Massie,Preferred Name
 64098,54498,Greenfield,"Greenfield, Karyn",Karyn Greenfield,Preferred Name
 64099,54499,,"Funds from Ronald M. Costell, M.D. and the Estate of Marsha E. Swiss","Funds from Ronald M. Costell, M.D. and the Estate of Marsha E. Swiss",Preferred Name
+64100,54500,Velarde,"Velarde, Kukuli",Kukuli Velarde,Preferred Name
+64101,54501,,RoFa Art Gallery,RoFa Art Gallery,Preferred Name
 64106,54505,Giroux,"Giroux, Ann",Ann Giroux,Preferred Name
 64110,54507,Comas y Blanco,"Comas y Blanco, Augosto",Augosto Comas y Blanco,Preferred Name
 64112,54509,Fernandez-Aldao,"Fernandez-Aldao, Manuel",Manuel Fernandez-Aldao,Preferred Name
@@ -35011,6 +35036,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64152,29722,Coburn,"Coburn, Lewis Larned Mrs.",Mrs. Lewis Larned Coburn,Married Name
 64153,54530,Lake,"Lake, Edward William Esq.",Edward William Lake Esq.,Preferred Name
 64154,54531,Eckford,"Eckford, Henry George",Henry George Eckford,Preferred Name
+64160,54535,Voženílek,"Voženílek, Zdeněk",Zdeněk Voženílek,Preferred Name
 64161,54536,Thurman,"Thurman, Rowland Dr.",Dr. Rowland Thurnam,Preferred Name
 64162,54537,,"Charles J. Sawyer, Booksellers","Charles J. Sawyer, Booksellers",Preferred Name
 64163,54538,Sessler,"Sessler, Richard",Richard Sessler,Preferred Name
@@ -35028,9 +35054,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64185,54557,Schnur,"Schnur, David and Else",David and Else Schnur,Preferred Name
 64186,54558,Bade,"Bade, Anthony N.",Anthony N. Bade,Preferred Name
 64187,54559,,Servarts Beaux-Arts,Servarts Beaux-Arts,Preferred Name
+64188,54560,Morisot-Pontillon,"Morisot-Pontillon, Edma",Edma Morisot-Pontillon,Preferred Name
 64200,54572,MacBaisey,"MacBaisey, Steve",Steve MacBaisey,Preferred Name
 64210,54580,Bonazza,"Bonazza, Giovanni",Giovanni Bonazza,Preferred Name
 64212,54582,Sosnoff,"Sosnoff, Toni and Martin",Toni and Martin Sosnoff,Preferred Name
+64216,54586,Jarvis,"Jarvis, Shaniqwa",Shaniqwa Jarvis,Preferred Name
 64223,54593,Abend,"Abend, Carol",Carol Abend,Preferred Name
 64224,54594,Toda,"Toda, Tadashi",Tadashi Toda,Preferred Name
 64228,54598,Moncornet,"Moncornet, Veuve",Veuve Moncornet,Preferred Name
@@ -35045,12 +35073,15 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64261,54629,,"La Paloma, Los Angeles","La Paloma, Los Angeles",Preferred Name
 64263,43658,,Lorilland Company,Lorilland Company,Variant
 64264,54631,Gallatin,"Gallatin, Emily Lorillard (Morris)",Emily Lorillard (Morris) Gallatin,Preferred Name
+64266,54633,Rodríguez-Díaz,"Rodríguez-Díaz, Angel",Angel Rodríguez-Díaz,Preferred Name
+64267,54634,Guerra,"Guerra, Raphael Dr.",Dr. Raphael Guerra,Preferred Name
 64268,54635,Gott,"Gott, William",William Gott,Preferred Name
 64269,54636,Gott,"Gott, John Reverend",Reverend John Gott,Preferred Name
 64271,54638,,Henrique Faria Fine Art,Henrique Faria Fine Art,Preferred Name
 64273,30567,Wyer,"Wyer, Daniela Laube",Daniela Laube Wyer,Married Name
-64274,54640,Warren,"Warren, James A.",James A. Warren,Preferred Name
+64274,54640,James,"James, Warren A.",Warren A. James,Preferred Name
 64275,42714,,,Zaplin Lampert Gallery,Variant
+64277,54641,Lundberg,"Lundberg, Gunnar W.",Gunnar W. Lundberg,Preferred Name
 64279,54642,Eisen,"Eisen, David",David Eisen,Preferred Name
 64280,54643,,Roswell Book Binders,"Roswell Book Binders, Phoenix, Arizona",Preferred Name
 64281,54644,Lang,"Lang, Jean and John",Jean and John Lange,Preferred Name
@@ -35073,6 +35104,13 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64335,34349,,,Studio Thomas Demand,Variant
 64336,54692,Prager,"Prager, Joanne",Joanne Prager,Preferred Name
 64350,54706,,Craven Allen Gallery,Craven Allen Gallery,Preferred Name
+64355,54711,,Mackinnon & Strachey,Mackinnon & Strachey,Preferred Name
+64356,54712,Delessert,"Delessert, Edouard",Edouard Delessert,Preferred Name
+64357,54713,,Hôtel des Ventes de Rodez,Hôtel des Ventes de Rodez,Preferred Name
+64358,54714,,Mirabaud-Mercier,Mirabaud-Mercier,Preferred Name
+64359,54715,,Boisseau-Pomez,Boisseau-Pomez,Preferred Name
+64360,54716,,Hôtel des Ventes Victor Hugo,Hôtel des Ventes Victor Hugo,Preferred Name
+64362,54718,Keating,"Keating, Alice",Funds from Alice and Peter Keating,Preferred Name
 64363,54719,Bullock,"Bullock, Raymond",Raymond Bullock,Preferred Name
 64373,27654,,Lisa Stone Pritzker Family Fund,Lisa Stone Pritzker Family Fund,Variant Index Name
 64374,27654,,LSP Family Foundation,LSP Family Foundation,Variant Index Name
@@ -35086,4 +35124,21 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64383,7992,Williams,"Williams, Mabel",Mabel Williams,Variant
 64384,7992,Williams,"Williams, Maybelle",Maybelle Williams,Variant
 64388,6880,Pevsner,"Pevsner, Naum",Naum Pevsner,Variant
+64404,54746,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,Preferred Name
+64405,54746,,,ARCO,Variant
 64418,54759,Odieuvre,"Odieuvre, Michel",Michel Odieuvre,Preferred Name
+64429,54768,Lincoln,"Lincoln, Evelyn",Evelyn Lincoln,Preferred Name
+64430,54769,Solomon,"Solomon, Marvin",Marvin Solomon,Preferred Name
+64431,24327,,,Galerie Kleinmann,Variant
+64432,54770,Lassally,"Lassally, M.W.",M.W. Lassally,Preferred Name
+64434,54772,Podell,"Podell, Catherine and Michael",Catherine and Michael Podell,Preferred Name
+64435,54773,Shields,"Shields, Peter",Peter Shields,Preferred Name
+64436,54774,Ferguson,"Ferguson, Denise",Denise Ferguson,Preferred Name
+64437,54775,Freedberg,"Freedberg, Catherine",Catherine Freedberg,Preferred Name
+64439,54777,Prince,"Prince, Diana",Diana Prince,Preferred Name
+64440,54778,Rea,"Rea, Robert",Robert Rea,Preferred Name
+64449,54786,West & Waddell,West & Waddell,West & Waddell,Preferred Name
+64454,54791,Spanish (?) 17th Century,Spanish (?) 17th Century,Spanish (?) 17th Century,Preferred Name
+64460,28164,Rodenbach,"Rodenbach, Constantin Jules Alexandre",Constantin Jules Alexandre Rodenbach,Full Name
+64461,54796,Chigi,"Chigi, Agostino",Agostino Chigi,Preferred Name
+64466,52873,Beerendrecht,"Beerendrecht, Jan Pietersen",Jan Pietersen Beerendrecht,Variant
