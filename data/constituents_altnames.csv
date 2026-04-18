@@ -13371,7 +13371,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 23799,23806,Western European 20th Century,Western European 20th Century,Western European 20th Century,Preferred Name
 23801,23808,Robin,"Robin, Robert",Robert Robin,Preferred Name
 23802,23809,Brandstetter,"Brandstetter, Oscar",Oscar Brandstetter,Preferred Name
-23803,23810,Levy,"Levy, E.",E. Levy,Preferred Name
+23803,23810,Lévy,"Lévy, Émile",Émile Lévy,Preferred Name
 23804,23811,Rosset,"Rosset, Pierre Fulcrand de",Pierre Fulcrand de Rosset,Preferred Name
 23805,23812,Sadeler,"Sadeler, Justus",Justus Sadeler,Preferred Name
 23807,23814,Davis,"Davis, Lynn",Lynn Davis,Preferred Name
@@ -35142,3 +35142,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64460,28164,Rodenbach,"Rodenbach, Constantin Jules Alexandre",Constantin Jules Alexandre Rodenbach,Full Name
 64461,54796,Chigi,"Chigi, Agostino",Agostino Chigi,Preferred Name
 64466,52873,Beerendrecht,"Beerendrecht, Jan Pietersen",Jan Pietersen Beerendrecht,Variant
+64467,38588,,Stanislaus II Augustus,Stanislaus II Augustus,Variant
+64468,54801,Tyszkiewiczowa,"Tyszkiewiczowa, Maria Teresa",Maria Teresa Tyszkiewiczowa,Preferred Name
+64469,54801,Poniatowska,"Poniatowska, Maria Teresa",Maria Teresa Poniatowska,Maiden Name
