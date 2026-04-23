@@ -5920,7 +5920,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6232,6239,Powle,"Powle, George",George Powle,Preferred Name
 6233,6240,Cooper,"Cooper, Samuel",Samuel Cooper,Preferred Name
 6234,6241,Dumonstier,"Dumonstier, Daniel",Daniel Dumonstier,Preferred Name
-6235,6242,Hogenberg,"Hogenberg, Franz",Franz Hogenberg,Preferred Name
+6235,6242,Hogenberg,"Hogenberg, Frans",Frans Hogenberg,Preferred Name
 6236,6243,Hole,"Hole, William",William Hole,Preferred Name
 6237,6244,Holtmann,"Holtmann, Theodor",Theodor Holtmann,Preferred Name
 6238,6245,Hopwood I,"Hopwood I, James",James Hopwood I,Preferred Name
@@ -33682,6 +33682,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62034,52842,,RounTree Fine Art Ltd.,RounTree Fine Art Ltd.,Preferred Name
 62038,52844,,"Waddington Graphics, London","Waddington Graphics, London",Preferred Name
 62039,52845,Starobinski,"Starobinski, Jean",Jean Starobinski,Preferred Name
+62043,52849,Bracquemond,"Bracquemond, Marie",Marie Bracquemond,Preferred Name
 62050,52855,Varela,"Varela, Maria",Maria Varela,Preferred Name
 62051,52856,Pierozzi,"Pierozzi, Caterina Angela",Caterina Angela Pierozzi,Preferred Name
 62053,33365,Dike,"Dike, Phil",Phil Dike,Variant
@@ -34099,6 +34100,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62583,39770,Blum,"Blum, Alex Anthony",Alex Anthony Blum,Variant
 62584,5168,Passe,,Crispijn Passe,Full Name
 62585,47260,Barth,"Barth, Karl",Karl Barth,Variant
+62586,53305,Sharifzadeh-Vercruysse,Lilas Sharifzadeh,Lilas Sharifzadeh,Preferred Name
 62587,46506,Doyle,"Doyle, John Lawrence",John Lawrence Doyle,Variant
 62589,53307,Espinosa,"Espinosa, Manuel",Manuel Espinosa,Preferred Name
 62590,53308,,Sicardi Gallery,Sicardi Gallery,Preferred Name
@@ -35144,3 +35146,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64467,38588,,Stanislaus II Augustus,Stanislaus II Augustus,Variant
 64468,54801,Tyszkiewiczowa,"Tyszkiewiczowa, Maria Teresa",Maria Teresa Tyszkiewiczowa,Preferred Name
 64469,54801,Poniatowska,"Poniatowska, Maria Teresa",Maria Teresa Poniatowska,Maiden Name
+64471,6242,Hogenberg,"Hogenberg, Franz",Franz Hogenberg,Variant
